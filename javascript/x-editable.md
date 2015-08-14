@@ -1,0 +1,1 @@
+![](https://github.com/zhangdhu/blog/blob/master/img/x-editable.png)
