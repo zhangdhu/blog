@@ -10,6 +10,10 @@
 ####二：启动
 
        2.1：启动之前，我们要给mongodb指定一个文件夹，这里取名为”db",用来存放mongodb的数据
+[首页](https://github.com/zhangdhu/blog/blob/master/index.md)
+
+
+
 ![](https://github.com/zhangdhu/blog/blob/master/img//5-1.png)
        2.2：微软徽标+R，输入cmd，首先找到“mongodb”的路径，然后运行mongod开启命令，同时用--dbpath指定数据存放地点为“db”文件夹。
 ![](https://github.com/zhangdhu/blog/blob/master/img/4-1.png)
