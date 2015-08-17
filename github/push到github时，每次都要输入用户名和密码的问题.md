@@ -25,4 +25,4 @@ origin https://github.com/yuquan0821/demo.git (push)
 
 以后可以这样执行
 
-![](https://github.com/zhangdhu/blog/blob/master/github/img/markdown1.jpg)
+![](https://github.com/zhangdhu/blog/blob/master/github/img/1.png)
