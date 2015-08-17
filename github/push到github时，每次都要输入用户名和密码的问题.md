@@ -17,3 +17,8 @@ origin https://github.com/yuquan0821/demo.git (push)
 1. git remote rm origin
 2. git remote add origin git@github.com:yuquan0821/demo.git
 3. git push origin 
+
+
+以后可以这样执行
+
+![](https://github.com/zhangdhu/blog/blob/master/github/img/markdown1.jpg)
